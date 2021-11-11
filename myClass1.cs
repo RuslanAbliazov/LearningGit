@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LearningGit
 {
-    // Hello word string. Only for test
+    // Hello
     class myClass1
     {
     }
