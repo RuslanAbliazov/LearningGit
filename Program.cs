@@ -6,7 +6,11 @@ namespace LearningGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Extreme cod!!!");
+            int N = int.Parse(Console.ReadLine());
+            for(int i = 0; i < N; i++)
+            {
+                Console.WriteLine("Extreme cod!!!");
+            }
         }
     }
 }
