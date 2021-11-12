@@ -11,5 +11,6 @@ namespace LearningGit
     {
         public int rate { get; set; }
         public string name { get; set; }
+        public int health { get; set; }
     }
 }
