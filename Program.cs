@@ -9,7 +9,7 @@ namespace LearningGit
             int N = int.Parse(Console.ReadLine());
             for(int i = 0; i < N; i++)
             {
-                Console.WriteLine("Extreme cod!!!");
+                Console.WriteLine(i + "Extreme cod!!!");
             }
         }
     }
