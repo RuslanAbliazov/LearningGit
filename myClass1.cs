@@ -10,5 +10,6 @@ namespace LearningGit
     class myClass1
     {
         public int rate { get; set; }
+        public string name { get; set; }
     }
 }
