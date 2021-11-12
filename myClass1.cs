@@ -9,5 +9,6 @@ namespace LearningGit
     // Hello
     class myClass1
     {
+        public int rate { get; set; }
     }
 }
